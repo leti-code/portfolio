@@ -9,3 +9,10 @@ Es un proyecto con fines educativos y por ello el acceso a la base de datos est�
 
 Para poder probar las distintas funcionalidades se facilita un enlace de un hosting donde está alojada actualmente la página y la base de datos:
 https://extirpative-turnaro.000webhostapp.com/index.html
+
+### Evidencias
+<img src="proyectoPrácticas/evidences/inicio.png" width="700px"/>
+
+<img src="proyectoPrácticas/evidences/alta.png" width="700px"/>
+
+
