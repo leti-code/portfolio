@@ -8,11 +8,12 @@ Este proyecto busca crear una aplicación sencilla que genere facturas de compra
 Para ejecutar el programa sólo es necesario abrir el archivo ```aplicacionFacturas.exe``` situado en ```aplicacionFacturas/aplicacionFacturas/bin/Debug```
 
 ### Evidencias
-![Ventana de inicio](aplicacionFacturas/evidences/inicio.png =200x)
+![Ventana de inicio](aplicacionFacturas/evidences/inicio.png)
+<img src="aplicacionFacturas/evidences/inicio.png" width="200px"/>
 
-![Ventana de creación](aplicacionFacturas/evidences/creacion.png =200x)
+![Ventana de creación](aplicacionFacturas/evidences/creacion.png)
 
-![Ventana de resultado](aplicacionFacturas/evidences/resultado.png =200x)
+![Ventana de resultado](aplicacionFacturas/evidences/resultado.png)
 
 ![Ventana de búsqueda](aplicacionFacturas/evidences/buscar.png)
 
