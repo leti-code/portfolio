@@ -8,16 +8,21 @@ Este proyecto busca crear una aplicación sencilla que genere facturas de compra
 Para ejecutar el programa sólo es necesario abrir el archivo ```aplicacionFacturas.exe``` situado en ```aplicacionFacturas/aplicacionFacturas/bin/Debug```
 
 ### Evidencias
-![Ventana de inicio](aplicacionFacturas/evidences/inicio.png)
+<img src="aplicacionFacturas/evidences/inicio.png" width="600px"/>
 
-![Ventana de creación](aplicacionFacturas/evidences/creacion.png)
+<img src="aplicacionFacturas/evidences/creacion.png" width="600px"/>
 
-![Ventana de resultado](aplicacionFacturas/evidences/resultado.png)
+
+<img src="aplicacionFacturas/evidences/resultado.png" width="600px"/>
 
 ![Ventana de búsqueda](aplicacionFacturas/evidences/buscar.png)
+
 
 
 ## Calculadora
 Con este pequeño proyecto se pretende recrear el funcionamiento de un calculadora básica.
 
 Para ejecutar el programa sólo es necesario abrir el archivo ```Calculadora.exe``` situado en ```Calculadora/Calculadora/bin/Debug```
+
+### Evidencias
+<img src="Calculadora/evidences/calculadora.png" width="600px"/>
